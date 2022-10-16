@@ -9,7 +9,7 @@ go install github.com/at-tev/colormind@latest
 ```
 
 # Usage
-There few ways to get color scheme:
+There are few ways to get color scheme:
  1. By command *random* in order to get random color scheme
  2. By command *suggest* with 1-4 color code arguments in order to get color scheme suggestion
  
